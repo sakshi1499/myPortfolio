@@ -219,6 +219,7 @@ li{
   height: 15.5rem;
   width: 0.3rem;
   margin-right: 5rem;
+  overflow: hidden;
 }
 .about-details{
   flex:1;
