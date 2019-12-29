@@ -210,10 +210,10 @@ li{
   
 }
 
-.about-heading h6{
+/* .about-heading h6{
   font-size: 1.5rem;
   font-weight: 300;
-}
+} */
 .profile-img{
   flex:1;
   margin-right: 5rem;
