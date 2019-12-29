@@ -216,10 +216,7 @@ li{
 }
 .profile-img{
   flex:1;
-  height: 10.5rem;
-  width: 0.3rem;
   margin-right: 5rem;
-  overflow: hidden;
   border-radius: 50%;
 }
 .about-details{
