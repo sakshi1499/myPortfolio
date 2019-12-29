@@ -216,8 +216,8 @@ li{
 }
 .profile-img{
   flex:1;
-  height:50%;
-  width:0.5rem;
+  height: 0.05rem;
+  width: 0.5rem;
   margin-right: 5rem;
 }
 .about-details{
