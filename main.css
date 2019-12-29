@@ -220,6 +220,7 @@ li{
   width: 0.3rem;
   margin-right: 5rem;
   overflow: hidden;
+  border-radius: 50%;
 }
 .about-details{
   flex:1;
