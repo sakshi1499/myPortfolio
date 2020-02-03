@@ -136,6 +136,7 @@ li{
   cursor: pointer;
   z-index: 1500;
   transition: transform 650ms ease-out;
+  overflow:hidden;
 }
 .menu-toggler.open{
   transform: rotate(-45deg);
