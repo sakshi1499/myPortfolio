@@ -488,6 +488,10 @@ li{
 { body{
   width: 100%;
   }
+  img{
+  width:100%;
+  }
+  
   .menu-toggler{
     top: 2rem;
     right: 2rem;
