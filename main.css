@@ -29,6 +29,11 @@ img{
   width: 100%;
 }
 /*Start reusable*/
+.profileimg{
+width: 50%;
+  height: 50%;
+}
+
 .container{
   width:90%;
   max-width: 120rem;
@@ -218,9 +223,7 @@ li{
 .profile-img{
   flex:1;
   margin-right: 5rem;
-  height: 50%;
-  width: 50%;
-}
+  }
 .about-details{
   flex:1;
    }
