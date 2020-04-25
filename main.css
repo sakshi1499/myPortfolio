@@ -30,7 +30,7 @@ img{
 }
 /*Start reusable*/
 .profileimg{
-width: 50%;
+width: 60%;
   height: 50%;
 }
 
@@ -436,6 +436,10 @@ li{
     background: url("images/sitebg.jpg") no-repeat center fixed;
     background-size: cover;
     }
+  img{
+    width:100%;
+  }
+  
   .landing-text h1{
     font-size: 15rem;
     }
