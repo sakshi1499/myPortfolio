@@ -436,7 +436,7 @@ li{
     background: url("images/sitebg.jpg") no-repeat center fixed;
     background-size: cover;
     }
-  img{
+  .profileimg{
     width:100%;
   }
   
@@ -488,7 +488,7 @@ li{
 { body{
   width: 100%;
   }
-  img{
+  .profileimg{
   width:100%;
   height:100%; 
   }
