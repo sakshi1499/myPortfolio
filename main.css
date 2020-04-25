@@ -438,6 +438,7 @@ li{
     }
   .profileimg{
     width:100%;
+    overflow-y: hidden;
   }
   
   .landing-text h1{
