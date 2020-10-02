@@ -32,6 +32,7 @@ img{
 .profileimg{
 width: 60%;
   height: 50%;
+  overflow: hidden;
 }
 
 .container{
@@ -43,7 +44,7 @@ width: 60%;
 }
 .section-heading{
   text-align: center;
-  margin-top: 6rem;
+  margin-top: 4rem;
 }
 .section-heading h1{
   font-size: 3.5rem;
@@ -182,8 +183,9 @@ li{
 }
 .landing-text h1{
   font-size: 8rem;
-  font-family: 'Sacramento', cursive;
-  background: linear-gradient(to top,#B39BCA,#8FC1E3);
+  font-family: 'Roboto', sans-serif;
+  background: white;
+  /*background: linear-gradient(to top,rgba(255,255,255, .3),white);*/
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   padding: 1rem;
@@ -201,7 +203,7 @@ li{
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 600px;
+  padding-top: 500px;
 }
 
 .about-heading{
@@ -223,6 +225,7 @@ li{
 .profile-img{
   flex:1;
   margin-right: 5rem;
+  overflow: hidden;
   }
 .about-details{
   flex:1;
@@ -268,6 +271,16 @@ li{
   text-transform: uppercase;
   letter-spacing: 2px;
   margin: 2rem -2px 2rem 0;
+}
+.newImage1{
+  width: 15rem;
+  height: 16rem;
+  overflow: hidden;
+}
+.newImage{
+  width: 10rem;
+  height: 17rem;
+  overflow: hidden;
 }
 .icon-container{
   width: 10rem;
@@ -437,8 +450,8 @@ li{
     background-size: cover;
     }
   .profileimg{
-    width:100%;
-    overflow-y: hidden;
+    /*width:100%;*/
+    overflow: hidden;
   }
   
   .landing-text h1{
@@ -492,7 +505,7 @@ li{
   .profileimg{
   width:100%;
   height:100%; 
-    overflow-y: hidden;
+    overflow: hidden;
   }
   
   .menu-toggler{
